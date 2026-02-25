@@ -1,0 +1,518 @@
+[
+	{
+		"id": "middlebury-area",
+		"town": "Middlebury/Ripton",
+		"hikes": [
+			{
+				"slug": "snake-mountain",
+				"name": "Snake Mountain",
+				"difficulty": "Moderate",
+				"description": "A favorite for Middlebury students; offers a massive stone foundation at the top with a cliff-side view of Lake Champlain."
+			},
+			{
+				"slug": "robert-frost-interpretive-trail",
+				"name": "Robert Frost Interpretive Trail",
+				"difficulty": "Easy",
+				"description": "A flat, accessible loop featuring poems by Robert Frost on plaques throughout the woods and fields."
+			},
+			{
+				"slug": "abbey-pond-trail",
+				"name": "Abbey Pond Trail",
+				"difficulty": "Moderate",
+				"description": "A steady climb following a stream up to a high-elevation pond and wetland area."
+			},
+			{
+				"slug": "chipman-hill",
+				"name": "Chipman Hill Loop",
+				"difficulty": "Easy",
+				"description": "Located right in town; part of the TAM, featuring a network of trails with views of the college and village."
+			},
+			{
+				"slug": "tam-otter-creek-gorge",
+				"name": "TAM: Otter Creek Gorge",
+				"difficulty": "Easy",
+				"description": "Part of the Trail Around Middlebury, this section follows the dramatic limestone gorge and waterfalls."
+			},
+			{
+				"slug": "mount-moosalamoo",
+				"name": "Mount Moosalamoo",
+				"difficulty": "Hard",
+				"description": "A steep climb in the Moosalamoo National Recreation Area with views of Lake Dunmore."
+			},
+			{
+				"slug": "silver-lake-trail",
+				"name": "Silver Lake Trail",
+				"difficulty": "Moderate",
+				"description": "Beginning at Branbury State Park, this trail climbs to a secluded, mountain-ringed lake."
+			},
+			{
+				"slug": "falls-of-lana",
+				"name": "Falls of Lana",
+				"difficulty": "Easy",
+				"description": "A short walk to a series of cascading waterfalls that feed into Lake Dunmore."
+			},
+			{
+				"slug": "skylight-pond",
+				"name": "Skylight Pond (Skyline Lodge)",
+				"difficulty": "Moderate",
+				"description": "Follows the Ripton-Goshen road up to a beautiful pond and a Green Mountain Club lodge."
+			},
+			{
+				"slug": "belden-falls",
+				"name": "Belden Falls Loop",
+				"difficulty": "Easy",
+				"description": "A scenic walk along the Otter Creek featuring a suspension bridge and views of the dam."
+			}
+		]
+	},
+	{
+		"id": "bristol-lincoln",
+		"town": "Bristol/Lincoln",
+		"hikes": [
+			{
+				"slug": "bristol-ledges",
+				"name": "Bristol Ledges",
+				"difficulty": "Moderate",
+				"description": "A short, steep hike directly above Bristol village with a bird's-eye view of the town's main street."
+			},
+			{
+				"slug": "mount-abraham-battell",
+				"name": "Mount Abraham via Battell Trail",
+				"difficulty": "Hard",
+				"description": "The local favorite for summiting the 4,000-footer from the west side."
+			},
+			{
+				"slug": "sunset-ledge",
+				"name": "Sunset Ledge",
+				"difficulty": "Easy",
+				"description": "Starting at the top of Lincoln Gap, a very short hike on the Long Trail with high reward views."
+			},
+			{
+				"slug": "texas-falls",
+				"name": "Texas Falls Nature Trail",
+				"difficulty": "Easy",
+				"description": "A lush, forested loop around a unique glacial pothole and waterfall."
+			},
+			{
+				"slug": "bristol-cliffs",
+				"name": "Bristol Cliffs Wilderness",
+				"difficulty": "Hard",
+				"description": "A rugged, trailless wilderness area for experienced navigators seeking solitude."
+			}
+		]
+	},
+	{
+		"id": "stowe",
+		"town": "Stowe",
+		"hikes": [
+			{
+				"slug": "mount-mansfield-sunset-ridge",
+				"name": "Mount Mansfield (Sunset Ridge)",
+				"difficulty": "Hard",
+				"description": "The classic open-ridge ascent to the highest point in Vermont."
+			},
+			{
+				"slug": "stowe-pinnacle",
+				"name": "Stowe Pinnacle",
+				"difficulty": "Moderate",
+				"description": "Popular steady climb to a rocky summit overlooking the valley."
+			},
+			{
+				"slug": "moss-glen-falls",
+				"name": "Moss Glen Falls",
+				"difficulty": "Easy",
+				"description": "Spectacular 85-foot waterfall just minutes from the road."
+			},
+			{
+				"slug": "sterling-pond",
+				"name": "Sterling Pond",
+				"difficulty": "Moderate",
+				"description": "Steep climb to the highest trout pond in the state."
+			},
+			{
+				"slug": "bingham-falls",
+				"name": "Bingham Falls",
+				"difficulty": "Easy",
+				"description": "Deep swimming holes and a narrow gorge waterfall."
+			},
+			{
+				"slug": "haselton-trail",
+				"name": "Haselton Trail",
+				"difficulty": "Hard",
+				"description": "Rugged terrain starting near the ski resort and ascending the mountain flank."
+			},
+			{
+				"slug": "wiessner-woods",
+				"name": "Wiessner Woods",
+				"difficulty": "Easy",
+				"description": "A gentle forest walk perfect for families and dogs."
+			},
+			{
+				"slug": "kimmer-trail",
+				"name": "Kimmer Trail",
+				"difficulty": "Moderate",
+				"description": "A winding trail popular for both hikers and mountain bikers."
+			}
+		]
+	},
+	{
+		"id": "waterbury-duxbury",
+		"town": "Waterbury/Duxbury",
+		"hikes": [
+			{
+				"slug": "camels-hump-monroe",
+				"name": "Camel's Hump (Monroe Trail)",
+				"difficulty": "Hard",
+				"description": "Iconic treeless summit with 360-degree views."
+			},
+			{
+				"slug": "mount-hunger",
+				"name": "Mount Hunger",
+				"difficulty": "Hard",
+				"description": "A steep trek in the Worcester Range with a bald, rocky peak."
+			},
+			{
+				"slug": "little-river-nature-trail",
+				"name": "Little River Nature Trail",
+				"difficulty": "Easy",
+				"description": "Historic farmstead ruins and gentle forest paths."
+			},
+			{
+				"slug": "stevenson-brook",
+				"name": "Stevenson Brook Trail",
+				"difficulty": "Moderate",
+				"description": "Follows an old logging road through Little River State Park."
+			},
+			{
+				"slug": "cotton-brook-trail",
+				"name": "Cotton Brook Trail",
+				"difficulty": "Moderate",
+				"description": "Longer, rolling trail through remote state forest land."
+			},
+			{
+				"slug": "waterbury-reservoir-perimeter",
+				"name": "Reservoir Perimeter Trail",
+				"difficulty": "Easy",
+				"description": "Flat trail hugging the shoreline of the reservoir."
+			},
+			{
+				"slug": "camels-hump-burrows",
+				"name": "Camel's Hump (Burrows Trail)",
+				"difficulty": "Hard",
+				"description": "The shortest, though very popular and rocky, route to the summit."
+			}
+		]
+	},
+	{
+		"id": "manchester-dorset",
+		"town": "Manchester/Dorset",
+		"hikes": [
+			{
+				"slug": "lye-brook-falls",
+				"name": "Lye Brook Falls",
+				"difficulty": "Moderate",
+				"description": "A 125-foot waterfall in the Lye Brook Wilderness."
+			},
+			{
+				"slug": "mount-equinox",
+				"name": "Mount Equinox",
+				"difficulty": "Hard",
+				"description": "Toughest climb in the Taconic Range with views of the Charterhouse."
+			},
+			{
+				"slug": "prospect-rock",
+				"name": "Prospect Rock",
+				"difficulty": "Moderate",
+				"description": "Follows the Long Trail to a cliff overlooking the valley."
+			},
+			{
+				"slug": "equinox-pond-loop",
+				"name": "Equinox Pond Loop",
+				"difficulty": "Easy",
+				"description": "Serene stroll around the base of the mountain."
+			},
+			{
+				"slug": "mount-aeolus",
+				"name": "Mount Aeolus",
+				"difficulty": "Hard",
+				"description": "Leads to marble caves and historic quarry sites."
+			},
+			{
+				"slug": "gettysburg-quarry",
+				"name": "Gettysburg Quarry",
+				"difficulty": "Easy",
+				"description": "An abandoned marble quarry with vertical white stone walls."
+			},
+			{
+				"slug": "owls-head-dorset",
+				"name": "Owl's Head (Dorset)",
+				"difficulty": "Hard",
+				"description": "Steep hike to a viewpoint overlooking the Dorset valley."
+			}
+		]
+	},
+	{
+		"id": "killington",
+		"town": "Killington",
+		"hikes": [
+			{
+				"slug": "killington-peak",
+				"name": "Killington Peak (Bucklin Trail)",
+				"difficulty": "Hard",
+				"description": "Vermont's second-highest peak; very steep final pitch."
+			},
+			{
+				"slug": "deer-leap-rock",
+				"name": "Deer Leap Rock",
+				"difficulty": "Moderate",
+				"description": "Dramatic cliff overlook above the Sherburne Pass."
+			},
+			{
+				"slug": "thundering-falls",
+				"name": "Thundering Falls Boardwalk",
+				"difficulty": "Easy",
+				"description": "Wheelchair-accessible path to a major AT waterfall."
+			},
+			{
+				"slug": "pico-peak",
+				"name": "Pico Peak",
+				"difficulty": "Hard",
+				"description": "A climb to the neighbor of Killington with a different perspective."
+			},
+			{
+				"slug": "kent-pond-loop",
+				"name": "Kent Pond Loop",
+				"difficulty": "Easy",
+				"description": "Quiet shoreline walk on the Appalachian Trail."
+			},
+			{
+				"slug": "shrewsbury-peak",
+				"name": "Shrewsbury Peak",
+				"difficulty": "Moderate",
+				"description": "A more remote peak in the Coolidge State Forest."
+			}
+		]
+	},
+	{
+		"id": "burlington-shelburne",
+		"town": "Burlington/Shelburne",
+		"hikes": [
+			{
+				"slug": "mount-philo",
+				"name": "Mount Philo",
+				"difficulty": "Easy",
+				"description": "Small mountain, legendary views of the Lake and Adirondacks."
+			},
+			{
+				"slug": "shelburne-bay-park",
+				"name": "Shelburne Bay Park",
+				"difficulty": "Easy",
+				"description": "Lakeside trails with limestone cliffs."
+			},
+			{
+				"slug": "niquette-bay",
+				"name": "Niquette Bay State Park",
+				"difficulty": "Easy",
+				"description": "Sandy beaches and views of the Lake Champlain islands."
+			},
+			{
+				"slug": "red-rocks-park",
+				"name": "Red Rocks Park",
+				"difficulty": "Easy",
+				"description": "Public park with high cliffs overlooking the main lake."
+			},
+			{
+				"slug": "centennial-woods",
+				"name": "Centennial Woods",
+				"difficulty": "Easy",
+				"description": "UVM-managed forest with diverse ecosystems."
+			},
+			{
+				"slug": "laplatte-nature-park",
+				"name": "LaPlatte Nature Park",
+				"difficulty": "Easy",
+				"description": "Meandering river paths and floodplains."
+			},
+			{
+				"slug": "shelburne-farms-loop",
+				"name": "Shelburne Farms Loop",
+				"difficulty": "Easy",
+				"description": "World-class farm landscape with lake views and grand architecture."
+			}
+		]
+	},
+	{
+		"id": "northeast-kingdom",
+		"town": "Westmore/Barton",
+		"hikes": [
+			{
+				"slug": "mount-pisgah",
+				"name": "Mount Pisgah",
+				"difficulty": "Hard",
+				"description": "Iconic cliffs overlooking the fjord-like Lake Willoughby."
+			},
+			{
+				"slug": "mount-hor",
+				"name": "Mount Hor",
+				"difficulty": "Moderate",
+				"description": "View of the Gap from the western side of Willoughby."
+			},
+			{
+				"slug": "bald-mountain-westmore",
+				"name": "Bald Mountain (Westmore)",
+				"difficulty": "Moderate",
+				"description": "Restored fire tower with views to Canada and the Whites."
+			},
+			{
+				"slug": "wheeler-mountain",
+				"name": "Wheeler Mountain",
+				"difficulty": "Moderate",
+				"description": "Unique granite slabs and open rock hiking."
+			},
+			{
+				"slug": "sentinel-rock",
+				"name": "Sentinel Rock",
+				"difficulty": "Easy",
+				"description": "A massive glacial erratic boulder with a pastoral view."
+			},
+			{
+				"slug": "bluff-mountain",
+				"name": "Bluff Mountain",
+				"difficulty": "Moderate",
+				"description": "Overlooks the village of Island Pond."
+			},
+			{
+				"slug": "jay-peak",
+				"name": "Jay Peak",
+				"difficulty": "Hard",
+				"description": "Rugged northern hike with views deep into Quebec."
+			}
+		]
+	},
+	{
+		"id": "central-vermont",
+		"town": "Waitsfield/Warren",
+		"hikes": [
+			{
+				"slug": "mount-abraham-long-trail",
+				"name": "Mount Abraham (Long Trail)",
+				"difficulty": "Hard",
+				"description": "Alpine zone at the summit with 360-degree views."
+			},
+			{
+				"slug": "molly-stark-balcony",
+				"name": "Molly Stark's Balcony",
+				"difficulty": "Moderate",
+				"description": "Scenic ledge overlooking the Mad River Valley."
+			},
+			{
+				"slug": "burnt-rock-mountain",
+				"name": "Burnt Rock Mountain",
+				"difficulty": "Hard",
+				"description": "Remote, rocky summit on the Monroe Skyline."
+			},
+			{
+				"slug": "mad-river-path",
+				"name": "Mad River Path",
+				"difficulty": "Easy",
+				"description": "Community trails connecting the local villages."
+			},
+			{
+				"slug": "mount-ellen",
+				"name": "Mount Ellen",
+				"difficulty": "Hard",
+				"description": "One of the 4,000 footers, often accessed via the ski area."
+			}
+		]
+	},
+	{
+		"id": "southern-vermont",
+		"town": "Bennington/Woodford",
+		"hikes": [
+			{
+				"slug": "harmon-hill",
+				"name": "Harmon Hill",
+				"difficulty": "Hard",
+				"description": "Steep rock stairs leading to a high, open meadow."
+			},
+			{
+				"slug": "bald-mountain-bennington",
+				"name": "Bald Mountain (Bennington)",
+				"difficulty": "Hard",
+				"description": "View of the Bennington Battle Monument."
+			},
+			{
+				"slug": "little-rock-pond",
+				"name": "Little Rock Pond",
+				"difficulty": "Easy",
+				"description": "Crystal clear pond on the Long Trail."
+			},
+			{
+				"slug": "stratton-mountain",
+				"name": "Stratton Mountain",
+				"difficulty": "Hard",
+				"description": "Fire tower hike where the AT and LT were conceived."
+			},
+			{
+				"slug": "white-rocks-ice-beds",
+				"name": "White Rocks Ice Beds",
+				"difficulty": "Moderate",
+				"description": "Unique microclimate with ice in the talus slopes."
+			},
+			{
+				"slug": "bromley-mountain",
+				"name": "Bromley Mountain",
+				"difficulty": "Moderate",
+				"description": "Gradual climb to a grassy summit with great views."
+			},
+			{
+				"slug": "mount-olga",
+				"name": "Mount Olga",
+				"difficulty": "Easy",
+				"description": "Short fire tower loop in Molly Stark State Park."
+			},
+			{
+				"slug": "haystack-mountain",
+				"name": "Haystack Mountain",
+				"difficulty": "Moderate",
+				"description": "View overlooking the Deerfield Valley and Reservoir."
+			}
+		]
+	},
+	{
+		"id": "upper-valley",
+		"town": "Windsor/Woodstock",
+		"hikes": [
+			{
+				"slug": "mount-ascutney",
+				"name": "Mount Ascutney",
+				"difficulty": "Hard",
+				"description": "Isolated monadnock with waterfalls and a stone tower."
+			},
+			{
+				"slug": "mount-tom",
+				"name": "Mount Tom",
+				"difficulty": "Easy",
+				"description": "Carriage roads in the National Historical Park."
+			},
+			{
+				"slug": "the-pogue",
+				"name": "The Pogue",
+				"difficulty": "Easy",
+				"description": "Hidden high-elevation pond in Woodstock."
+			},
+			{
+				"slug": "gile-mountain",
+				"name": "Gile Mountain",
+				"difficulty": "Moderate",
+				"description": "Fire tower with views of the Connecticut River valley."
+			},
+			{
+				"slug": "mount-peg",
+				"name": "Mount Peg",
+				"difficulty": "Easy",
+				"description": "Local Woodstock hill with a view of the village."
+			}
+		]
+	}
+]
